@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on full stack
 - 📫 How to reach me rafaelareissouzasouza239@gmail.com
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: também estou aprendendo a mexer nesse site heheh
 
 <!---
 rafaadeviniciante/rafaadeviniciante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
