@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafaadeviniciante
-- 👀 I’m interested in em desenvolver minha carreira no mundo dos códiigos!
+- 👀 I’m interested in em desenvolver minha carreira no mundo dos códigos!
 - 🌱 I’m currently learning a ponta do iceberg
 - 💞️ I’m looking to collaborate on full stack
 - 📫 How to reach me rafaelareissouzasouza239@gmail.com
